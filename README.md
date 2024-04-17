@@ -64,9 +64,3 @@ I'm always eager to connect with fellow developers, share ideas, and collaborate
 **LinkedIn - https://www.linkedin.com/in/afiestic/** <br>
 **Gmail - [afiestic@gmail.com](mailto:afiestic@gmail.com?subject=Hello&body=Glad%20to%20connect%20with%20you!)**
 
-## 🏆 GitHub Metrics 🏆
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=afiestic&theme=darkhub&row=2&column=3&margin-w=20&margin-h=20)](https://github.com/afiestic/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afiestic&layout=compact&theme=vision-friendly-dark)](https://github.com/afiestic/github-readme-stats)
-
