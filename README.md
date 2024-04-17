@@ -23,30 +23,42 @@
 
 I'm Aditya 👋, I'm a passionate B.Tech student in Artificial Intelligence and Data Science, with a deep love for both web and software development. I thrive on creating impactful and user-centered digital experiences that combine form and function.
 
-## 💻 Tech Enthusiast & Full-Stack Developer
+## 💻 Technology Buff & Full-Stack Expert
 
-- ✨ Delved Deep into Data Structures and Algorithms with a refined understanding, transforming complexity into elegant solutions
-- 🌐 Skilled in web technologies and frameworks like React, Express, Node, Next JS and more.
-- 💻 Proficient in Java and Python programming languages.
-- 🎨 Love crafting responsive and visually appealing UIs.
-- ⚙️ Enjoy diving into backend logic to bring projects to life.
+✨ Explored the depths of Data Structures and Algorithms, mastering intricate concepts to create elegant solutions.
+🌐 Proficient in a variety of web technologies and frameworks such as React, Express, Node.js, Next.js, and more.
+💻 Highly skilled in both Java and Python programming languages, proficiently leveraging their power to develop robust solutions.
+🎨 Passionate about designing responsive and visually captivating user interfaces, focusing on both aesthetics and functionality.
+⚙️ Thrive on unraveling the complexities of backend logic, utilizing my expertise to breathe life into projects and drive them to success.
 
-## 🚀 Always Learning & Exploring
+## 🚀 Continuous Intellectual Adventure
 
 I believe in the power of constant learning and improvement. Currently, I'm expanding my horizons by exploring artificial intelligence and machine learning to create intelligent applications.
 
-## 🛠️ Tools & Technologies
+## 🛠️ Skill Set
 
-- Frontend: React JS, Tailwind CSS, Bootstrap, Vanilla JS, HTML, CSS 
-- Backend: Java, Python, Express JS, Node JS
-- Version Control: Git, GitHub
-- IDEs: Visual Studio Code, IntelliJ IDEA Ultimate, PyCharm Professional
+Frontend:
+- 💻 React JS, Vue.js, Angular, Svelte
+- 🎨 Tailwind CSS, Bootstrap, Material-UI, Sass, Less
+- 🛠️ Webpack, Babel, TypeScript, JavaScript (ES6+), HTML5, CSS3
 
+Backend:
+- 🖥️ Java, Python, Node.js, Express.js, Django, Flask
+- 🚀 Spring Boot, ASP.NET, Ruby on Rails, PHP, Laravel
+- 📊 GraphQL, RESTful APIs, MongoDB, MySQL, PostgreSQL, SQLite, Firebase
+
+Version Control:
+- 🔗 Git, GitHub, GitLab, Bitbucket, SVN (Subversion)
+
+IDEs:
+- ⚙️ Visual Studio Code, IntelliJ IDEA Ultimate, PyCharm Professional
+- 🛠️ Eclipse, NetBeans, Atom, Sublime Text, Vim
+- 📱 Xcode, Android Studio
 <!-- ## 🌟 Open Source Contributor
 
 I'm an advocate for open source software and love contributing to projects that make a difference. You can often find me collaborating with like-minded developers to improve the tools we all rely on. -->
 
-## 📫 Let's Connect
+## 📫 Hit Me Up
 
 I'm always eager to connect with fellow developers, share ideas, and collaborate on exciting projects. Feel free to reach out to me on: <br>
 **LinkedIn - https://www.linkedin.com/in/afiestic/** <br>
