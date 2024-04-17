@@ -52,5 +52,5 @@ I'm an advocate for open source software and love contributing to projects that 
 ## 📫 Let's Connect
 
 I'm always eager to connect with fellow developers, share ideas, and collaborate on exciting projects. Feel free to reach out to me on: <br>
-**LinkedIn - https://www.linkedin.com/in/sharaneshwar-punjal/** <br>
-**Gmail - [punjalsharaneshwar@gmail.com](mailto:punjalsharaneshwar@gmail.com?subject=Hello&body=Glad%20to%20connect%20with%20you!)**
+**LinkedIn - https://www.linkedin.com/in/afiestic/** <br>
+**Gmail - [punjalsharaneshwar@gmail.com](mailto:afiestic@gmail.com?subject=Hello&body=Glad%20to%20connect%20with%20you!)**
