@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me :
 
-I'm Aditya 👋, I'm a passionate B.Tech student in , with a deep love for both web and software development. I thrive on creating impactful and user-centered digital experiences that combine form and function.
+I'm Aditya 👋, I'm a passionate B.Tech student in Artificial Intelligence and Data Science, with a deep love for both web and software development. I thrive on creating impactful and user-centered digital experiences that combine form and function.
 
 ## 💻 Tech Enthusiast & Full-Stack Developer
 
