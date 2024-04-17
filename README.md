@@ -9,9 +9,6 @@
     <a href="https://www.hackerrank.com/afiestic" target="_blank">
       <img src="https://img.shields.io/badge/Hackerrank-darkgreen?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
     </a>
-    <a href="https://instagram.com/afiestic" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-grey?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
     <a href="https://leetcode.com/afiestic">
       <img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
     </a>
@@ -53,4 +50,4 @@ I'm an advocate for open source software and love contributing to projects that 
 
 I'm always eager to connect with fellow developers, share ideas, and collaborate on exciting projects. Feel free to reach out to me on: <br>
 **LinkedIn - https://www.linkedin.com/in/afiestic/** <br>
-**Gmail - [punjalsharaneshwar@gmail.com](mailto:afiestic@gmail.com?subject=Hello&body=Glad%20to%20connect%20with%20you!)**
+**Gmail - [afiestic@gmail.com](mailto:afiestic@gmail.com?subject=Hello&body=Glad%20to%20connect%20with%20you!)**
