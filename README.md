@@ -14,7 +14,7 @@
     </a>
   </div>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=Sharaneshwar&style=flat-round&color=red" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=afiestic&style=flat-round&color=red" alt=""/>
 </div>
 
 ### Hi there 👋
